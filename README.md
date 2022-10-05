@@ -15,7 +15,7 @@
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
 
 
-######  Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.
+######  **Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.**
 
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
 |----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
